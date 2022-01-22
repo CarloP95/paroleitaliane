@@ -1,6 +1,7 @@
 # Liste di parole italiane
 
-In questo repository potrete trovare alcuni file contenenti liste di parole italiane (alcuni di provenienza ignota, recuperati da un vecchio hard disk, altri, ove possibile con "fonte") utili per:
+Fork di [napolux](https://github.com/napolux/paroleitaliane) utilizzato per  mantenere un riferimento a supporto della [libreria](https://github.com/CarloP95/SterenVocabulary).
+Tutto quello che segue è l'esatto README.md del repository originale.
 
 - Dizionari
 - Giochi di parole
