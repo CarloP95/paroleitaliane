@@ -164764,7 +164764,6 @@ killeriate
 killerino
 killero
 killerò
-la
 labbreggerà
 labbreggerai
 labbreggeranno
@@ -295011,7 +295010,6 @@ sperticatevi
 sperticati
 sperticato
 spertichiamoci
-spesa
 spesai
 spesammo
 spesando
